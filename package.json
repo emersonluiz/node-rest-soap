@@ -1,0 +1,21 @@
+{
+  "name": "node-rest-soap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emerson Luiz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "consign": "^0.1.5",
+    "express": "^4.15.3",
+    "restify": "^4.3.0",
+    "soap": "^0.19.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
